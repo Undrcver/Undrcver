@@ -11,12 +11,10 @@ I can't wait to collaborate with you in the future and wish you a good time expl
 As a reward for finding it, heres a fun fact!
 The first D&D campaign I ever ran was called Dawn's Ascension-->
 
-![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1&reversal=true)
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=A020F0&customColorList=12&height=1&reversal=true)
 
-<!-- This link is my personal vercel link. If you want to copy the same style please edit the version in the note below. Just replace where it says "YourGithubUsername" with your username -->
-<!-- [![Your Github Stats](https://github-readme-stats.vercel.app/api?username=YourGithubUsername&count_private=true&show_icons=true&theme=github_dark)](https://github.com/YourGithubUsername) -->
 [![Luis Github Stats](https://github-readme-stats.vercel.app/api?username=Undrcver)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![Mateos github stats](https://github-readme-stats.vercel.app/api?username=Mateo-Wallace&count_private=true&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 ### Socials
 
