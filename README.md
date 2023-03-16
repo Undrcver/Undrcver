@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=A020F0&height=300&section=header&text=Luis%20Alicea&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=A020F0&height=200&section=header&text=Luis%20Alicea&fontSize=90)
 Hello World! My name is Mateo Wallace, and I am ecstatic that you have found my page. Code and design have been a dream of mine for many years and I'm just beginning on my journey to become a Full Stack Web Developer.
 My dream is to one day travel to every single National State Park on one giant road trip. My endeavors in programming hopefully will push me towards that goal.
 
@@ -19,7 +19,7 @@ The first D&D campaign I ever ran was called Dawn's Ascension-->
 
 ### Socials
 
-[![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mateo-wallace-57931b254/) [![Email Shield](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mateo.t.wallace@gmail.com) [![Twitter Shield](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Magic_Man_Mateo) [![Instagram Shield](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mateo_wallace/)
+[![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/luis-alicea-612325233/)) [![Email Shield](https://img.shields.io/badge/hotmail-EA4335?style=for-the-badge&logo=hotmail&logoColor=white)](loualiceae@hotmail.com) [![Instagram Shield](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/woouwie/)
 
 ![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1&reversal=true)
 
