@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=A020F0&height=200&section=header&text=Luis%20Alicea&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=A020F0&height=200&section=header&text=Luis%20Alicea&fontSize=90)
 Hello World! My name is Mateo Wallace, and I am ecstatic that you have found my page. Code and design have been a dream of mine for many years and I'm just beginning on my journey to become a Full Stack Web Developer.
 My dream is to one day travel to every single National State Park on one giant road trip. My endeavors in programming hopefully will push me towards that goal.
 
