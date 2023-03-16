@@ -20,7 +20,7 @@ The first D&D campaign I ever ran was called Dawn's Ascension-->
 
 [![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luis-alicea-612325233/)[![Email Shield](https://img.shields.io/badge/hotmail-EA4335?style=for-the-badge&logo=hotmail&logoColor=white)](loualiceae@hotmail.com) [![Instagram Shield](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/woouwie/)
 
-![underline CR](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=1&reversal=true)
+![underline CR](https://capsule-render.vercel.app/api?type=rect&color=A020F0t&customColorList=12&height=1&reversal=true)
 
 ## Technology 
 
